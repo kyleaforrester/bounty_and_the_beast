@@ -1,0 +1,18 @@
+Health: 31
+
+1) Reposition (6): Speed 3. If Steve has at least 15 health or has no allies, Steve moves two spaces towards the nearest enemy/head. Otherwise, Steve dashes all the way to be adjacent to the nearest ally using the shortest path.
+2) Shoot the Thing (12): Speed 4. Steve can shoot all enemies in a straight line up to 3 spaces away. Steve chooses the cardinal direction that hits the most enemies; if a tie, then he shoots at the lowest health enemy. 6 damage per enemy.
+3) Scout (4): Speed 2. Move to a random adjacent space, twice.
+
+Ongoing:
+1) Enhance! (2): Ongoing. Speed 10. Steve places a scope on his gun, increasing the range of 'Shoot the Thing' by 1.  This card stacks; Steve can look into a scope through a scope.
+2) Eureka (1): Ongoing.  Speed 10.  Steve realizes that 'Shoot the Thing' can be used in diagonal directions as well.
+3) Business Time (1): Ongoing.  Speed 10.  Steve plays an extra card each turn.
+4) Strap-On (1): Ongoing.  Speed 10.  Steve straps a bayonet onto his gun.  When Steve uses 'Reposition' or 'Scout', all enemies adjacent to any move-space Steve passes through are swiped for 4 damage each.
+5) Band-aid the Boo-Boo (2): Ongoing. Speed 10. Steve needs help putting on his Band-aids.  Steve heals for 2 health each turn he is adjacent to an ally.  This effect stacks.
+6) Pity (1): Ongoing. Speed 10.  Nearby enemies take pity upon Steve.  When Steve uses 'Reposition' or 'Scout', all enemies adjacent to any move-space Steve passes through discard their Ongoing actions.
+
+
+
+
+Model: https://www.thingiverse.com/thing:1373869

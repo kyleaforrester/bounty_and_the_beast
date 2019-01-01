@@ -1,0 +1,9 @@
+Health = 15
+
+1) Shadewalk (10): Speed 1. Move to any tile covered by shadow.  Remove the shadow. Draw a card. Play a card.
+2) Shadowdagger (10): Speed 4. Throw a dagger to any enemy within 3 spaces. Deal 2 damage, and cover that and 2 adjacent spaces of your choice in shadow. Play another card.
+3) Miasma (1): Speed 10. Ongoing. Every turn pick a space to cover in shadow.
+4) From Below (1): Speed 5. Move to a shaded space adjacent to an enemy, deal damage equal to damage dealt this turn.
+5) Soothing Mists (2): Speed 3. The space you occupy turns shaded. You become invulnerable and lie in wait. Regain 2 health every turn you take no action; taking action allows you to be targeted again.
+6) Whispering Shade (2): Speed 10. Ongoing.  Enemies lose all ongoing effects if they end a turn in a shaded space.  If two Whispering Shades are in play, enemies take 2 damage when ending a turn in the shade.
+7) Shadowwalk (4): Speed 4. Move up to 3 spaces.  These spaces are now covered in shadow.

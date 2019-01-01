@@ -1,0 +1,41 @@
+Health = 28
+
+Charge (10) speed 4:
+ bob charges up to 2 squares in any direction. 
+
+Deploy Turret (4) speed 5:
+ bob deploys a turret up to two adjacent squares from bob. Turret last 3 turns and targets closet enemy within 2 adjacent squares doing 1 dmg per turn.
+
+Hammer Time (4) speed 3: 
+ bob Swings his hammer doing 5 damage to all enemies in adjacent squares from bob
+
+Lunch Nap (4 ) Speed 8:
+Bob eats his lunch and falls asleep. Bob heals for + 3 HP but loses his next turn. while Bob is asleep he may draw up to two cards. Upon waking up Bob gains +2 Actions
+
+EMP (3) speed 9: 
+Bob send out Electromagnetic pulse removing 1 random ongoing from everyone on the field. If the Iron Man Suit ongoing is still active, bob sends out a second pulse removing a second ongoing to enemies with in 3 adjacent squares of bob.
+
+
+Ongoing:
+
+Turret Upgrade: Switch (1) speed 10:
+ Turrets can now be switched between support mode and tower defense mode. while in support mode turrets heal friendlies +1 (effect stacks).
+ While turrets are in support mode allies within in the turret range are immune to EMP.
+
+Iron Man Suit (1) speed 10:
+Bob creates an iron suit increasing his movement, defense, and Reaction time. (+1 movement to charge, +1 Damage reduction, +1 Actions)
+
+Turret Upgrade: Drone (1) Speed 10:
+Turrets deployment range increased by 1 and turret defense/support range increased by 1
+
+Turret Upgrade: Wifi (1) speed 10:
+Bob and Allies gain insight in to enemies weak points(+1 to all attacks)  while in the range of any turret (does not stack)
+Bob can now command turrets to attack a specific target within range. 
+
+Hard hats(1) speed 10: 
+Bob and Allies within 1 adjacent square of bob get a hard hat reducing damage by 1
+Bob now does 2 damage to enemies he goes through when he charges. 
+
+
+
+Model: https://www.thingiverse.com/thing:2577420

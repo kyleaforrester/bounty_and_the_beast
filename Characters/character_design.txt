@@ -1,0 +1,48 @@
+Every character needs the following abilities:
+
+1) Movement
+2) Attack
+3) Self-Heal
+4) Ongoing powers
+5) Discard opponent Ongoing powers
+6) Play extra cards
+
+Ranges:
+All 1: 3*6 + 4*12 + 6*6 + 6*6 + 6*6 + 6*1 = 180/37
+All 2: 8*6 + 10*12 + 13*6 + 15*6 + 18*6 + 18*1 = 462/37
+All 3: 15*6 + 17*12 + 22*6 + 23*6 + 30*6 + 37*1 = 781/37
+All 4: 23*6 + 26*12 + 30*6 + 33*6 + 37*6 + 37*1 = 1087/37
+All 5: 30*6 + 33*12 + 37*6 + 37*6 + 37*6 + 37*1 = 1279/37
+All 6: 37*6 + 37*12 + 37*6 + 37*6 + 37*6 + 37*1 = 1369/37
+Straight Line 1: 3*6 + 4*12 + 6*6 + 6*6 + 6*6 + 6*1 = 180/37
+Straight Line 2: 6*6 + 7*12 + 9*6 + 10*6 + 12*6 + 12*1 = 318/37
+Straight Line 3: 9*6 + 9*12 + 12*6 + 12*6 + 15*6 + 18*1 = 414/37
+Straight Line 4: 10*6 + 11*12 + 13*6 + 14*6 + 16*6 + 18*1 = 468/37
+Straight Line 5: 11*6 + 12*12 + 14*6 + 14*6 + 16*6 + 18*1 = 492/37
+Straight Line 6: 12*6 + 12*12 + 14*6 + 14*6 + 16*6 + 18*1 = 498/37
+
+Assumptions:
+Damage: 1 per sqrt(squares) per damage per range
+Heal: 1 per sqrt(squares) per damage per range
+Movement: 3 per square
+Ongoing: 5 turns * per turn value of card
+Speed: Multiply card value by (1+(0.5*((10 - speed)/9)))
+Play a card: Avg card value
+Draw a card: (Avg card value)/5
+Heal: 1 per sqrt(squares) per damage per range
+Self Heal: ((Global Heal)/3)*(24/Max Health)*Amount
+Option: Multiply 1.25 to highest value Option
+Damage Instances: Each player is hit by damage instance 50% of turns
+Remove Enemy Ongoing: 3
+Out of Hand: x4
+Knockback: 1 per square
+Displacement: 2 per max distance
+Root: 2 damage
+Heroes have 3 Ongoing powers
+Reduce Enemy Speed to 10: (Avg Card Value)*(0.25)
+Avg Card Value: (4000/24)
+
+
+
+Deal 2 damage to an enemy within 3 spaces in a straight line = 24 power
+Move to a space with 3 in a straight line = 24 power

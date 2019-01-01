@@ -1,0 +1,8 @@
+Health = 31
+
+1) Shish Kabob (3): Speed 5. Charge forward in a straight line up to 3 tiles. Any encountered allies or enemies are pushed forwards along the way, until the outermost player in the shish kabob contacts a border.  Deals 5 damage to enemies that are moved/hit.
+2) Flipper (3): Speed 7. Flip an adjacent enemy to any adjacent tile of your choice. 4 damage.
+3) Dorsal Reversal (3): Speed 3. Swim upside down this turn. Any damage taken will heal you instead.
+4) This Blows (3): Speed 6. Target an adjacent enemy or ally with your blowhole.  The target takes 3 damage and is pushed away in a straight line until contacting a border or occupied tile.
+5) Deep Dive (3): Speed 8. Plunge into the depths and resurface at another point.  You may move to any unoccupied tile.  Lose your next turn.
+6) Tail Fluke (3): Speed 4. Flop your tail in a straight line of distance 2 tiles.  Any enemies hit take 4 damage.  You are propelled in the opposite direction 1 space.  Play another card.

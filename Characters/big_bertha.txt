@@ -1,0 +1,20 @@
+Health = 22
+
+1) Steam Locomotive (6): Speed 9. You may move in a diagonal direction as far as you want until contacting either an enemy or the edge of the map.
+2) Rail Gun (8): Speed 6. You may fire a projectile in a diagonal direction that travels until contacting the first enemy square. 8 damage.
+3) Explosive Charge (3): Speed 2. Detonate an explosive charge to damage all enemies within 2 spaces. 4 damage.
+4) Divert Track (3): Speed 2. You may quickly move to an adjacent square.
+5) Machine Shop (2): Speed 10. Declare that you will be in the machine shop for X turns.  Lose your next X turns, but gain 3 health for each turn spent in the shop.
+6) Pain Train (2): Speed 9. You may perform a 'Steam Locomotive' move action in a diagonal direction.  For each square moved this way, fire a 'Rail Gun' in both orthogonal directions to your direction of movement.
+7) Mortar Launch (2): Speed 8. You fire a barrage of mortars into the air directed at each enemy player. Keep this card out to replay next turn.  Upon replaying at Speed 8 the next turn, all enemies that have not moved since the mortars fired take 3 damage.
+
+
+
+Ongoing:
+Magazine (1): Speed 10. Ongoing. Damaging an enemy this turn allows you to play an additional card.  You are not allowed to play the same ability twice.
+No Brakes (1): Speed 1. Ongoing. When using power 'Steam Locomotive' you can now move through enemies. Enemies contacted this way take 5 damage.
+Penetrating Rounds (1): Speed 10. Ongoing. 'Rail Gun' attacks now cause the enemy to discard all Ongoing powers.
+Crazy Train (1): Speed 10. Ongoing. You're going off the rails, and 'Rail Gun' and 'Steam Locomotive' can now also be cast in a cardinal direction.
+
+
+Model: https://www.thingiverse.com/thing:2839179
