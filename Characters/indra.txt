@@ -1,0 +1,7 @@
+Health = 25 + 5*N
+
+Trait: Indra is a dragon of immense length.  Indra occupies 2 tiles, one for her head and another for her tail.  Her length is so vast these tiles need not be adjacent.
+
+1) Bounding Stride (3): Speed 4. Indra may move her head tile up to 2 spaces.  Her tail tile is placed in the head's original position. Draw a card.
+2) Body Slam (3): Speed 5. Indra slams the ground with both head and tail tiles.  All enemies adjacent to her head or tail take 5 damage and lose an Ongoing of your choice.
+3) Pounce (3): Speed 1. Indra pounces at a nearby enemy. You may move the head tile up to one space and then attack a nearby enemy for 7 damage.
