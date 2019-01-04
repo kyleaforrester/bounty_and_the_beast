@@ -1,14 +1,17 @@
 Health = 33
 
-1) Dig (7): Speed 8. Create a hole in the ground at your current tile. You may play another card. 
+1) Dig (6): Speed 8. Create a hole in the ground at your current tile. You may play another card. 
 2) Burrow (4): Speed 4. If you are currently standing on a hole tile, you may burrow into the hole and surface at any hole tile.  The hole you surface at is destroyed. Heal 3 health. Play another card.
 3) Collapsing Pit (2): Speed 4. You may select an existing hole and collapse it.  If you do so all enemies on or adjacent to that tile cannot move this turn and take 3 damage. The hole is now destroyed.
 4) Forepaw Clap (5): Speed 6. You clap your forepaws together, striking a span of 3 adjacent tiles. Enemies hit take 4 damage and are pushed one tile away. Discard an Ongoing of your choice from each enemy hit this way.
 5) Moleskin (2): Speed 1. You take no damage this turn or next.
 6) Insectivore (4): Speed 5. You take a bite out of an adjacent enemy for 6 damage. Your paralysis toxins prevent the enemy from moving this turn.
+7) Holy Moley (2): Speed 5. In a divine act of levitation you move 3 tiles this turn.
 
 Ongoings:
 1) Extra Thumbs (1): Speed 9. Ongoing. 'Forepaw Clap' now hits every adjacent enemy, does 2 extra damage, and pushes 2 tiles away.
 2) Underground Breathing (2): Speed 10. Ongoing. Ending your turn on a hole allows you to draw another card. This effect stacks.
 3) Shrew (1): Speed 10. Ongoing. Every turn you may move to an adjacent tile with speed 11.
 4) Star-Nose (1): Speed 9. Ongoing. 'Dig' can now create holes up to 2 spaces away.
+
+Avatar: https://www.google.com/search?rlz=1C1GCEA_enUS773US773&biw=2133&bih=1042&tbm=isch&sa=1&ei=Z98sXKanCOWkggeUuL34Cw&q=evil+mole&oq=evil+mole&gs_l=img.3..35i39j0l3j0i5i30l2j0i8i30j0i24.3078.3442..3771...0.0..0.64.229.4......1....1..gws-wiz-img.......0i7i30j0i7i5i30j0i8i7i30.Tqo7eURiMfM#imgrc=8S8dyJc05pmcSM
