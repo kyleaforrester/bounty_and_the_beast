@@ -2,7 +2,7 @@ Health = 31
 
 1) Shish Kabob (5): Speed 5. Charge forward in a straight line up to 3 tiles. Any encountered allies or enemies are pushed forwards along the way, until the outermost player in the shish kabob contacts a border.  Deals 4 damage to enemies that are moved/hit.
 2) Flipper (5): Speed 7. Flip an adjacent enemy to any adjacent tile of your choice. 3 damage.
-3) Dorsal Revorsal (3): Speed 3. Swim upside down this turn. Any damage taken the rest of this turn will heal you instead. Play another card.
+3) Dorsal Revorsal (3): Speed 3. Swim upside down this turn. Any damage taken the rest of this turn will heal you instead. You may play another card.
 4) This Blows (4): Speed 6. Target an adjacent enemy or ally with your blowhole.  The target takes 2 damage and is pushed away in a straight line until contacting a border or occupied tile.
 5) Deep Dive (3): Speed 8. Plunge into the depths and resurface at another point.  You may move to any unoccupied tile.  Lose your next turn.
 6) Tail Fluke (4): Speed 4. Flop your tail in a straight line of distance 2 tiles.  Any enemies hit have 2 Ongoings of your choice stripped.  You are propelled in the opposite direction 1 space.  Play another card.
@@ -10,5 +10,5 @@ Health = 31
 Ongoings:
 7) Blubber Butt (1): Speed 10. Ongoing. If you take an instance of damage, you have the option to immediately bounce away 1 tile from the source of damage.
 8) Breathing Hole (3): Speed 9. Ongoing. At the end of each turn, heal for 1 health if you are adjacent to an enemy. This effect stacks.
-9) Ivory Tusk (1): Speed 10. Ongoing. Hitting and enemy with 'Shish Kabob' strips all of their Ongoing powers.
-10) Frozen Resilience (1): Speed 9. Ongoing. If you take an instance of damage, you may immediately draw a card.
+9) Ivory Tusk (1): Speed 10. Ongoing. Hitting and enemy with 'Shish Kabob' causes them to lose the rest of their turn.
+10) Beached Whale (1): Speed 9. Ongoing. If you take an instance of damage, you may immediately draw a card.
