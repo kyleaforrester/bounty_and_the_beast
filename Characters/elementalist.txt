@@ -1,43 +1,21 @@
 Health: 19
 
-Command (16): Speed 6. You may move two spaces OR command each of your summons within distance 3 to perform an ability. = (Movement 2)*(Option)*SpeedAdjust = (3 * 462/37)*1.25*(1+(0.5*((10 - 6)/9))) = 57.2
+Command (16): Speed 6. You may move two spaces OR command each of your summons within distance 3 to perform an ability.
 
-Fire Familiar (1): Speed 7. Summon a Fire Familiar with 4 health on an adjacent space with abilities: 1) Move 2 spaces 2) Incinerate all enemies within 2 spaces for 2 damage.
-Ice Familiar (1): Speed 7. Summon an Ice Familiar with 4 health on an adjacent space with abilities: 1) Move 2 spaces 2) Freeze target enemy within 2 spaces for 2 damage; enemy cannot move this turn.
-Lightning Familiar (1): Speed 7. Summon a Lightning Familiar with 4 health on an adjacent space with abilities: 1) Move 2 spaces 2) Shock an enemy within 2 spaces for 3 damage
-Earth Familiar (1): Speed 7. Summon an Earth Familiar with 6 health on an adjacent space with abilities: 1) Move 2 spaces 2) Toss an adjacent player 1 space in any direction. Deal 2 damage if tossing an enemy.
+Fire Familiar (1): Speed 7. Summon a Fire Familiar with 6 health on an adjacent space with abilities: 1) Move 2 spaces 2) Incinerate all enemies within 2 spaces for 2 damage.
+Ice Familiar (1): Speed 7. Summon an Ice Familiar with 6 health on an adjacent space with abilities: 1) Move 2 spaces 2) Freeze target enemy within 2 spaces for 2 damage; enemy cannot move this turn.
+Lightning Familiar (1): Speed 7. Summon a Lightning Familiar with 6 health on an adjacent space with abilities: 1) Move 2 spaces 2) Shock an enemy within 2 spaces for 3 damage
+Earth Familiar (1): Speed 7. Summon an Earth Familiar with 8 health on an adjacent space with abilities: 1) Move 2 spaces 2) Toss an adjacent player 1 space in any direction. Deal 2 damage if tossing an enemy.
 
-Fire Golem (1): Speed 8. Summon a Fire Golem with health 8 on an adjacent space with abilities: 1) Move 1 space 2) Smash adjacent enemy for 5 damage 3) Incinerate all enemies within 2 spaces for 3 damage
-Ice Golem (1): Speed 8. Summon an Ice Golem with health 8 on an adjacent space with abilities: 1) Move 1 space 2) Smash adjacent enemy for 5 damage 3) Freeze target enemy within 2 spaces for 3 damage; enemy cannot move this turn or next.
-Lightning Golem (1): Speed 8. Summon a Lightning Golem with health 8 on an adjacent space with abilities: 1) Move 1 space 2) Shock an enemy within 2 spaces for 6 damage
+Fire Golem (1): Speed 8. Summon a Fire Golem with health 9 on an adjacent space with abilities: 1) Move 1 space 2) Smash adjacent enemy for 5 damage 3) Incinerate all enemies within 2 spaces for 3 damage
+Ice Golem (1): Speed 8. Summon an Ice Golem with health 9 on an adjacent space with abilities: 1) Move 1 space 2) Smash adjacent enemy for 5 damage 3) Freeze target enemy within 2 spaces for 4 damage; enemy cannot move this turn.
+Lightning Golem (1): Speed 8. Summon a Lightning Golem with health 9 on an adjacent space with abilities: 1) Move 1 space 2) Shock an enemy within 2 spaces for 6 damage
 Earth Golem (1): Speed 8. Summon an Earth Golem with health 12 on an adjacent space with abilities: 1) Move 1 space 2) Smash adjacent enemy for 5 damage 3) Toss an adjacent player up to 2 spaces in any direction. Deal 3 damage if tossing an enemy.
 
 Ongoing:
-Flaming Volts (1): Ongoing. Speed 9. If a target is damaged by both 'Fire' and 'Lightning' this turn, strip off an Ongoing of your choice, and you may play a non-'Command' card. = (Chance Fire Out) * (Chance Lightning Out) * (Chance same target) *((Range 2)*(Strip Ongoing) + (Avg Command)) * Uses = (2/3) * (2/3) * (2/3) *((462/37)*(3) + (57.2)) * 5 = 140.2
-Lightning Strike (1): Ongoing. Speed 9. If a target is damaged by both 'Lightning' and 'Earth' this turn, You may play a non-'Command' card, and heal yourself 2 HP. = (Chance Lightning Out) * (Chance Earth Out) * (Chance same target) *((Self Heal 2) + (Avg Command)) * Uses = (2/3) * (2/3) * (1/2) *(((37/3)*(24/19)*2) + (57.2)) * 5 = 98.2
-Lava Fields (1): Ongoing. Speed 9. If a target is damaged by both 'Fire' and 'Earth' this turn, strip off an Ongoing of your choice, and heal yourself 2 HP. = (Chance Fire Out) * (Chance Earth Out) * (Chance same target) *((Self Heal 2) + (Range 2)*(Strip Ongoing)) * Uses = (2/3) * (2/3) * (0.5) *(((37/3)*(24/19)*2) + (462/37)*(3)) * 5 = 76.2
-Of Ice and Fire (1): Ongoing. Speed 9. If a target is damaged by both 'Ice' and 'Fire' this turn, strip off an Ongoing of your choice, and all their cards next turn have Speed 10. = (Chance Ice Out) * (Chance Fire Out) * (Chance same target) *((Reduce Avg Card to Speed 10) + (Range 2)*(Strip Ongoing)) * Uses = (2/3) * (2/3) * (2/3) *((4000/24)/4 + (462/37)*(3)) * 5 = 117.2
-Tundra (1): Ongoing. Speed 9. If a target is damaged by both 'Ice' and 'Earth' this turn, all their cards next turn have Speed 10, and heal yourself 2 HP. = (Chance Ice Out) * (Chance Earth Out) * (Chance same target) *((Reduce Avg Card to Speed 10) + (Self Heal 2)) * Uses = (2/3) * (2/3) * (1/2) *((4000/24)/4 + ((37/3)*(24/19)*2)) * 5 = 80.9
-Superconductor (1): Ongoing. Speed 9. If a target is damaged by both 'Ice' and 'Lightning' this turn, all their cards next turn have Speed 10, and you may play a non-'Command' card. = (Chance Ice Out) * (Chance Lightning Out) * (Chance same target) *((Reduce Avg Card to Speed 10) + (Avg Command)) * Uses = (2/3) * (2/3) * (2/3) *((4000/24)/4 + 57.2) * 5 = 146.5
-
-
-
-Power level = Health*((Ongoing Total) + (Command Total)) + (Fire Familiar) + (Fire Golem) + (Ice Familiar) + (Ice Golem) + (Lightning Familiar) + (Lightning Golem) + (Earth Familiar) + (Earth Golem) = 19*((140.2+98.2+76.2+117.2+80.9+146.5) + (57.2)*16)/22 + (253.3) + (706.0) + (133.2) + (466.2) + (99.9) + (399.6) + (149.8) + (272.4) = 3840.1
-
-Power Levels:
-
-Fire Familiar = (Health) * max([(Movement 2),(2 AOE)*(2 Range)*(2 Damage)]) * Option * (Turn Frequency) = (4) * max([(3 * 462/37),(sqrt(462/37))*(462/37)*(2)]) * 1.25 * (16/30) = 253.3
-
-Ice Familiar = (Health) * max([(Movement 2),(2 Range)*((2 Damage) + (Root))]) * Option * (Turn Frequency) = (4) * max([(3 * 462/37),(462/37)*(2 + 2)]) * 1.25 * (16/30) = 133.2
-
-Lightning Familiar = (Health) * max([(Movement 2),(2 Range)*(3 Damage)]) * Option * (Turn Frequency) = (4) * max([(3 * 462/37),(462/37)*(3)]) * 1.25 * (16/30) = 99.9
-
-Earth Familiar = (Health) * max([(Movement 2),(1 Range)*((1 Displacement) + (2 Damage))]) * Option * (Turn Frequency) = (6) * max([(3 * 462/37),(180/37)*((2) + (2))]) * 1.25 * (16/30) = 149.8
-
-Fire Golem = (Health) * max([(2 AOE)*(2 Range)*(3 Damage), (1 Range)*(5 Damage)]) * Option * (Turn Frequency) = (8) * max([(sqrt(462/37))*(462/37)*(3), (180/37)*(5)]) * 1.25 * (16/30) = 706.0
-
-Ice Golem = (Health) * max([(2 Range)*((3 Damage) + (2 Roots)), (1 Range)*(5 Damage)]) * Option * (Turn Frequency) = (8) * max([(462/37)*((3) + 4), (180/37)*(5)]) * 1.25 * (16/30) = 466.2
-
-Lightning Golem = (Health) * max([(2 Range)*(6 Damage), (1 Range)*(5 Damage)]) * Option * (Turn Frequency) = (8) * max([(462/37)*(6), (180/37)*(5)]) * 1.25 * (16/30) = 399.6
-
-Earth Golem = (Health) * max([(1 Range)*((2 Displacement) + (3 Damage)), (1 Range)*(5 Damage)]) * Option * (Turn Frequency) = (12) * max([(180/37)*((4) + (3)), (180/37)*(5)]) * 1.25 * (16/30) = 272.4
+Flaming Volts (1): Ongoing. Speed 9. If a target is damaged by both 'Fire' and 'Lightning' this turn, strip off an Ongoing of your choice, and you may play a non-'Command' card.
+Lightning Strike (1): Ongoing. Speed 9. If a target is damaged by both 'Lightning' and 'Earth' this turn, You may play a non-'Command' card, and heal yourself 2 HP.
+Lava Fields (1): Ongoing. Speed 9. If a target is damaged by both 'Fire' and 'Earth' this turn, strip off an Ongoing of your choice, and heal yourself 2 HP.
+Of Ice and Fire (1): Ongoing. Speed 9. If a target is damaged by both 'Ice' and 'Fire' this turn, strip off an Ongoing of your choice, and all their cards next turn have Speed 10.
+Tundra (1): Ongoing. Speed 9. If a target is damaged by both 'Ice' and 'Earth' this turn, all their cards next turn have Speed 10, and heal yourself 2 HP.
+Superconductor (1): Ongoing. Speed 9. If a target is damaged by both 'Ice' and 'Lightning' this turn, all their cards next turn have Speed 10, and you may play a non-'Command' card.

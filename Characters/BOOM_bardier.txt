@@ -1,10 +1,10 @@
-Health = 23
+Health = 22
 
-1) Jetpack (10): Speed 5. Move forward exactly 3 spaces in a straight line until contacting an enemy or border.  If contacting an enemy, stop there and push the enemy back 1 space.  Deal 7 damage, take 1 damage if an enemy is contacted.
+1) Jetpack (10): Speed 5. Move forward exactly 3 spaces in a straight line until contacting an enemy or border.  If contacting an enemy, stop there and push the enemy back 1 space.  Deal 6 damage, take 1 damage if an enemy is contacted.
 2) Extra Charges (2): Speed 1. Play another card.  Double its values.
-3) A Nice Surprise (3): Speed 10. Place a mine anywhere within 3 spaces.  Deals 6 damage when stepped on by an enemy.  Remove Ongoing effects when triggered.
+3) A Nice Surprise (3): Speed 10. Place a mine anywhere within 4 spaces.  Deals 6 damage when stepped on by an enemy.  Remove Ongoing effects when triggered.
 4) Let's Have a Blast (2): Speed 6. Place a bomb up to two spaces away.  It explodes.  Everyone within 1 tile of the bomb travels 2 spaces directly away.  Enemies in the blast take 6 damage, you take 2, allies take 0.
-5) Don't Drink That! (4): Speed 6. Heal for 5 damage, draw 1 card.
+5) Don't Drink That! (4): Speed 7. Heal for 5 damage, draw 1 card.
 6) Flashbang (4): Speed 2. Blind enemies within 3 spaces, affected enemies must roll higher than 2 when attacking to deal damage this turn.  You may play another card.
 7) Pet Bomb (3): Speed 1. Give an ally within 3 spaces a "pet". They may use the "pet" at any time to travel 2 spaces in a straight line.  The "pet" is good for one use only.
 
