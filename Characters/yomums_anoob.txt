@@ -1,14 +1,14 @@
 Health = 15 + 5*N
 
 Dissipate (2): Speed 1. Dissipate into a cloud of sand.  Reform on any space within 4 distance of your origin.
-Sand Wall (2): Speed 7. Select a cardinal direction.  Summon an enormous wall of sand that blows across the entire map.  All enemies are shoved 2 spaces in the chosen direction.
+Sand Wall (2): Speed 7. Select a direction.  Summon an enormous wall of sand that blows across the entire map.  All enemies are shoved 2 spaces in the chosen direction.
 Sarcophagus (2): Speed 1. Grab an adjacent enemy and pull them into a sarcophagus with you.  You both miss the rest of this turn and the next 2 turns.  You are both invulnerable during this time.
-Locust Swarm (2): Speed 5. Select a space on the map.  All enemies within distance 2 of that space have their Ongoing powers stripped.
-Chariot of Fire (6): Speed 6. Ride your flaming chariot in a chosen cardinal direction for up to 4 spaces or until contacting an enemy/border.  Any enemy adjacent to any of these movement spaces takes 4 damage.
-Sun Glass (2): Speed 9.  Focus the beams of the desert sun onto any enemy on the map.  4 damage.
+Locust Swarm (2): Speed 5. Select a space on the map.  All enemies within distance 2 of that space have all their Ongoing powers stripped.
+Chariot of Fire (6): Speed 6. Ride your flaming chariot in a straight line for up to 3 spaces or until contacting an enemy/border.  Any enemy adjacent to any of these movement spaces takes 4 damage.
+Sun Glass (2): Speed 9.  Focus the beams of the desert sun onto any enemy on the map.  3 damage.
 Burning Sun (2): Speed 2.  Your burdened enemies collapse under the desert sun.  Each enemy takes 2 damage per On-Going effect they have in play.
 Short-Curved Sword (2): Speed 3. Slash an adjacent enemy for 6 damage.
-Oasis (3): Speed 8.  Call upon a fresh underground spring to appear on any square of your choice. Note the travel distance, X, from your current position to this Oasis.  Stepping on the Oasis will consume it and heal you X damage.
+Oasis (3): Speed 8.  Call upon a fresh underground spring to appear on any tile of your choice. Note the travel distance, X, from your current position to this Oasis.  Stepping on the Oasis will consume it and heal you 2*X damage.
 
 
 
