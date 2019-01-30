@@ -1,19 +1,13 @@
-Health = 40
+Health = 32
 
-1) Consume (6): Speed 6. Feed on an adjacent enemy. 4 damage. Heal 4 damage. Remove an Ongoing of your choice off target enemy. = (Range 1)*((4 Damage) + (24/40)*(4 Health) + (Remove Ongoing))*SpeedAdjust = (180/37)*(4 + (24/40)*4 + (3))*(1+(0.5*((10 - 6)/9))) = 55.9
-2) Secrete (5): Speed 2. Secrete a layer of mucus.  All adjacent enemies are unable to move this turn. 3 damage to all affected enemies. = (Range 1)*(Range 1 AOE)*((Root) + (3 damage))*SpeedAdjust = (180/37)*sqrt(180/37)*((2) + (3))*(1+(0.5*((10 - 2)/9))) = 77.5
-3) Crawl (6): Speed 8. Move to an adjacent square. Play another card. = ((Movement 1) + (Avg Card))*SpeedAdjust = ((3*(180/37)) + (79.9))*(1+(0.5*((10 - 8)/9))) = 105.0
-4) Curl (5): Speed 2. Curl into a ball, and select either a vertical or horizontal direction.  Roll in that direction until contacting another player or the edge of the board.  If you contact an enemy, you cast 'Secrete'. = ((Range 6)*(Movement) + (Chance contact)*(Range 6)*(Range 1 AOE)*((Root) + (3 damage)))*SpeedAdjust = ((498/37)*(3) + (0.5)*(498/37)*sqrt(180/37)*(2 + 3))*(1+(0.5*((10 - 2)/9))) = 165.5
-5) Smother (2): Speed 5. You may smother an adjacent square.  You and all enemies on that square lose the rest of this turn, and the next turn. = (2 Avg Card)*SpeedAdjust = 2*(79.9)*(1+(0.5*((10 - 5)/9))) = 204.2
-6) Dessication (2): Speed 6. Remove 2 random Ongoing abilities from each enemy hero within 2 squares range. = ((Range 2)*(AOE)*(Ongoing Strip)*(Number Ongoings))*SpeedAdjust = ((462/37)*sqrt(462/37)*(3)*2)*(1+(0.5*((10 - 6)/9))) = 323.6
+1) Consume (6): Speed 6. Feed on an adjacent enemy. 4 damage. Heal 4 damage. Remove an Ongoing of your choice off target enemy.
+2) Secrete (5): Speed 2. Secrete a layer of mucus.  All adjacent enemies are unable to move this turn. 3 damage to all affected enemies.
+3) Crawl (6): Speed 8. Move to an adjacent square. Play another card.
+4) Curl (5): Speed 2. Curl into a ball, and select either a vertical or horizontal direction.  Roll in that direction until contacting another player or the edge of the board.  If you contact an enemy, you cast 'Secrete'.
+5) Smothered and Covered (2): Speed 5. You may smother an adjacent square.  You and all enemies on that square lose the rest of this turn, and the next turn.
+6) Dessication (2): Speed 6. Remove 2 random Ongoing abilities from each enemy hero within 2 squares range.
 
 Ongoing:
-7) Snail (2): Speed 2. Ongoing. You turn into a snail and have an external shell. Reduce each incoming attack by 2 damage.  Having 2 'Snail' cards in play reduces incoming attacks by 3 damage. = (Self Heal ((Chance Snail already out)+(2 damage)))*(Damage instances)*Uses = (Self Heal 2.25)*(0.5)*5 = ((37/3)*(24/40)*2.25)*0.5*5 = 41.6
-8) Pseudopod (1): Speed 8. Ongoing. Using 'Crawl' now allows you to move twice. = (Movement 1)*(Uses) = (3*180/37)*(6/30)*5 = 14.6
-9) Slugs Aren't Slow (1): Ongoing. Speed 5. The 'Crawl' ability now has a speed of 1. = ((Crawl Speed 1) - (Crawl Speed 8))*Uses = ((((3*(180/37)) + (79.9))*(1+(0.5*((10 - 1)/9)))) - (((3*(180/37)) + (79.9))*(1+(0.5*((10 - 8)/9)))))*(6/30)*5 = 36.7
-
-
-Before resolution Avg Card: 79.9
-After resolution Avg Card: 112.3
-
-Total Power!: 40*112.3 = 4492.0
+7) Snail (2): Speed 2. Ongoing. You turn into a snail and have an external shell. Reduce each incoming attack by 2 damage.  This card stacks. Minimum 1 damage taken per damage instance.
+8) Pseudopod (1): Speed 8. Ongoing. Using 'Crawl' now allows you to move twice.
+9) Slugs Aren't Slow (1): Ongoing. Speed 5. The 'Crawl' ability now has a speed of 1.
