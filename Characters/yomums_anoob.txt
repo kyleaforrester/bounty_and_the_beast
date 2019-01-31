@@ -9,7 +9,7 @@ Chariot of Fire (6): Speed 6. Ride your flaming chariot in a straight line for u
 Sun Glass (2): Speed 9.  Focus the beams of the desert sun onto any enemy on the map.  3 damage.
 Burning Sun (2): Speed 2.  Select a burdened player to collapse under the desert sun.  That player takes 2 damage per On-Going effect they have in play.
 Short-Curved Sword (2): Speed 3. Slash an adjacent enemy for 6 damage.
-Oasis (3): Speed 8.  Call upon a fresh underground spring to appear on any tile of your choice. Note the travel distance, X, from your current position to this Oasis.  Stepping on the Oasis will consume it and heal you 2*X damage.
+Oasis (3): Speed 8.  Call upon a fresh underground spring to appear on any tile of your choice. Note the travel distance, X, from your current position to this Oasis.  Stepping on the Oasis will consume it and heal you 3*X damage.
 
 
 
