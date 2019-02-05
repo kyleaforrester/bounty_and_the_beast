@@ -30,7 +30,7 @@ Turret Upgrade: Drone (1) Speed 10:
 At speed 1 bob can relocate all turrets within 3 squares of bob.  If bob has less than 2 turrets out +1 draw and playing turrets does not consume actions. 
 
 Turret Upgrade: Wifi (1) speed 10:
-Bob and Allies gain insight in to enemies weak points(+2 to all attacks)  while in the range of any turret (does not stack)
+Bob and Allies gain insight in to enemies weak points(+1 to all attacks)  while in the range of any turret (does not stack)
 Bob can now command turrets to attack a specific target within range. 
 
 Hard hats(1) speed 10: 
