@@ -16,3 +16,6 @@ Ongoings:
 10) Armor of Ten-Fold Shields (1): Ongoing. Speed 4. Indra's head tile is immune to damage.
 11) Claws of Spears (1): Ongoing. Speed 4.  Every turn at Speed 5, Indra will do 1 damage to all adjacent enemies of her head tile.
 12) Strong Strong Strong (1): Ongoing. Speed 4. Indra's immense strength prevent her from being displaced, losing a turn, or being unable to move.
+
+Head Model: https://www.thingiverse.com/thing:655525
+Tail Model: 
