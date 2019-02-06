@@ -2,19 +2,19 @@ Health = 10 + 8*N
 
 Trait: Indra is a dragon of immense length.  Indra occupies 2 tiles, one for her head and another for her tail.  Her length is so vast these tiles need not be adjacent.  An attack that hits both tiles still only does one instance of damage.
 
-1) Bounding Stride (3): Speed 4. Indra may move her head tile up to 2 spaces.  Her tail tile is placed in the head's original position. Draw a card.
+1) Bounding Stride (3): Speed 4. Indra may move her head tile up to 2 spaces.  Her tail tile is placed in the head's original position. Draw 2 cards.
 2) Body Slam (3): Speed 5. Indra slams the ground with both head and tail tiles.  All enemies adjacent to her head or tail take 3 damage and lose an Ongoing of your choice.
 3) Stretch (3): Speed 1. Indra moves her head tile to any space.
-4) Thunderbolt Tail (3): Speed 6. Indra slams her tail into the ground, dealing 4 damage to all adjacent enemies and causing them to lose the rest of this turn.
-5) Eat (3): Speed 1. Indra swallows an enemy adjacent to her head. That enemy loses this turn and is returned to the board at an adjacent tail tile of your choice at the end of the turn. Deals 4 damage.
+4) Thunderbolt Tail (3): Speed 5. Indra slams her tail into the ground, dealing 7 damage to all adjacent enemies and causing them to lose the rest of this turn.
+5) Eat (3): Speed 1. Indra swallows an enemy adjacent to her head. That enemy loses this turn and is returned to the board at an adjacent tail tile of your choice at the end of the turn. Deals 5 damage.
 6) Death Breath (3): Speed 6. If Indra's head and tail tiles form a straight line, Indra blasts a wave of fire from her head tile in the opposite direction of the tail tile.  Any enemies along the straight line are hit.  Deals 10 damage.
-7) Reversal (3): Speed 2. Indra flips around and switches her head and tail tiles. Draw a card.
-8) Hurricane Wings (3): Speed 3. Any enemies adjacent to either a head or tail tile are pushed away 2 tiles and take 2 damage.
+7) Reversal (3): Speed 2. Indra flips around and switches her head and tail tiles. Play a card.
+8) Hurricane Wings (3): Speed 3. Any enemies adjacent to either a head or tail tile are pushed away 2 tiles and take 4 damage.
 9) Teeth Like Swords (3): Speed 4. Indra targets a straight line of length 2 tiles from her head and snaps her maw over the area.  Enemies hit take 5 damage and lose an Ongoing of your choice.
 
 Ongoings:
 10) Armor of Ten-Fold Shields (1): Ongoing. Speed 4. Indra's head tile is immune to damage.
-11) Claws of Spears (1): Ongoing. Speed 4.  Every turn at Speed 5, Indra will do 1 damage to all adjacent enemies of her head tile.
+11) Claws of Spears (1): Ongoing. Speed 4.  Every turn at Speed 5, Indra will do 3 damage to all adjacent enemies of her head tile.
 12) Strong Strong Strong (1): Ongoing. Speed 4. Indra's immense strength prevent her from being displaced, losing a turn, or being unable to move.
 
 Head Model: https://www.thingiverse.com/thing:655525
