@@ -1,4 +1,5 @@
-Health = 10 + 8*N
+Max Health v4 = 50
+Max Health v6 = 75
 
 Trait: Indra is a dragon of immense length.  Indra occupies 2 tiles, one for her head and another for her tail.  Her length is so vast these tiles need not be adjacent.  An attack that hits both tiles still only does one instance of damage.
 
