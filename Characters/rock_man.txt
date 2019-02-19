@@ -1,18 +1,18 @@
 Health = 10
 
-Trait: If Rock Man dies and he still has allies that are alive, he loses 2 turns, loses all his rocks and rock powers, and reassembles at full health at the nearest tile to where he died.  If Rock Man dies and his allies are dead, he stays dead.
+Trait: If Rock Man dies and he still has allies that are alive, he loses the next 2 turns, loses all his rocks and rock powers, and reassembles at full health at the nearest tile to where he died.  If Rock Man dies and his allies are dead, he stays dead.
 
 1) Igneous (3): Speed 8. Spawn an Igneous rock at least 2 tiles away.  If Rock Man ends the turn on that tile he eats the rock and gains its power: do 2 damage to adjacent enemies at Speed 10 each turn. This card stacks and stays in play until Rock Man's death.
 2) Sedimentary (3): Speed 8. Spawn a Sedimentary rock at least 2 tiles away.  If Rock Man ends the turn on that tile he eats the rock and gains its power: gain 4 current and max health. This card stacks and stays in play until Rock Man's death.
 3) Metamorphic (3): Speed 8. Spawn a Metamorphic rock at least 2 tiles away.  If Rock Man ends the turn on that tile he eats the rock and gains its power: draw an extra card after each turn. This card stacks and stays in play until Rock Man's death.
 
-4) Rock Slide (6): Speed 6. Slide up to 2 tiles in a straight line. Enemies adjacent to any tile you touched take 4 damage and lose an Ongoing of your choice.
-5) Between a Rock and a Hard Place (3): Speed 6.  Push yourself and an adjacent enemy in a straight line until contacting either a border or occupied tile.  Deal 3 damage.
-6) Rocky Balboa (3): Speed 5. Punch an adjacent enemy in the face.  Deals 5 damage and the enemy loses the rest of this turn.
-7) Rock and Roll (3): Speed 3. Roll in a straight line until you contact a border or occupied tile.  You pick up and eat any rocks you encounter while rolling this way.
+4) Rock Slide (6): Speed 6. Slide up to 2 tiles in a straight line. Enemies adjacent to your landing tile you touched take 4 damage and lose an Ongoing of your choice.
+5) Between a Rock and a Hard Place (3): Speed 4.  Push yourself and an adjacent enemy in a straight line until contacting either a border or occupied tile.  Enemy discards 2 cards. Deal 3 damage.
+6) Rocky Balboa (3): Speed 5. Select an enemy up to 2 tiles away in a straight line to jab in the face.  Deals 5 damage and the enemy loses the rest of this turn.
+7) Rock and Roll (3): Speed 3. Roll in a straight line until you contact a border or occupied tile; you may then bounce off your stopping point to continue rolling in a different direction.  Max 2 Bounces.  You pick up and eat any rocks you encounter while rolling this way.
 8) The Rock is Cooking (3): Speed 9. You cook yourself a delicious meal of rocks.  Heal 8 health.  Lose your next turn.
 
 Ongoing:
-9) Rock of Ages (1): Speed 10.  Ongoing. If Rock Man dies, he gets to keep his rocks and rock powers when we respawns.
-10) Rock Bottom (1): Speed 10.  Ongoing. If Rock Man dies, he does not lose any turns and will resurrect before the next turn.
+9) Rock of Ages (1): Speed 10.  Ongoing. If Rock Man dies, he gets to keep his rocks and rock powers when he respawns.
+10) Rock Bottom (1): Speed 10.  Ongoing. If Rock Man dies, he loses only the current turn and will resurrect before the next turn.
 11) Rocky Road (1): Speed 10.  Ongoing. Eating a rock gives you the ability to play 2 actions in the next turn.
