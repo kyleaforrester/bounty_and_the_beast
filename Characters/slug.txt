@@ -3,7 +3,7 @@ Health = 32
 1) Consume (6): Speed 6. Feed on an adjacent enemy. 4 damage. Heal 4 damage. Remove an Ongoing of your choice off target enemy.
 2) Secrete (5): Speed 2. Secrete a layer of mucus.  All adjacent enemies are unable to move this turn. 3 damage to all affected enemies.
 3) Crawl (6): Speed 8. Move to an adjacent square. Play another card.
-4) Curl (5): Speed 2. Curl into a ball, and select either a vertical or horizontal direction.  Roll in that direction until contacting another player or the edge of the board.  If you contact an enemy, you cast 'Secrete'.
+4) Curl (5): Speed 2. Curl into a ball, and select a straight line direction.  Roll in that direction until contacting another player or the edge of the board.  If you contact an enemy, you cast 'Secrete'.
 5) Smothered and Covered (2): Speed 5. You may smother an adjacent square.  You and all enemies on that square lose the rest of this turn, and the next turn.
 6) Dessication (2): Speed 6. Remove 2 random Ongoing abilities from each enemy hero within 2 squares range.
 
