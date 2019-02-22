@@ -1,31 +1,33 @@
-Health = 23
+Health = 22
 
-Movement: x 9
-*Summoner can move, attack, command all summons to move or command all summons to attack*
+Movement: x 9, Speed 6
+*Summoner can move, attack, command all summons to move, or command all summons to attack*
 
-Raise Blood Golem: X4
-*summon a golem up to 3 spaces from caster in any direction*
-*Golem has 8 HP and 3 Attk 1 Movement*
-*after summoning a golem you may choose to summon one skeleton warrior/archer*
+Raise Blood Golem: X4, Speed 7
+*summon a golem up to 2 spaces from caster in any direction*
+*Blood Golem has  HP 8, Attk 4, Range 1, Movement 1  *
 
-Raise Skeleton Warrior: x4
-*summon a skeletal warrior up to 3 spaces from caster in any direction*
-*skeletal warrior has 5 HP and 1 Attk 1 Movement*
+Raise Skeleton Warrior: x4, Speed 6
+*summon a skeletal warrior up to 2 spaces from caster in any direction*
+*skeletal warrior has  HP 6, Attk 5, Range 1, Movement 1  *
 
-Raise Skeleton Archer: x4
-*summon a skeletal warrior up to 3 spaces from caster in any direction*
-*skeletal warrior has  3 HP and 2 Attk 1 Movement*
+Raise Skeleton Archer: x4, Speed 5
+*summon a skeletal archer up to 2 spaces from caster in any direction*
+*skeletal warrior has HP 5, Attk 2, Range 2, Movement 1*
 
-Corpse explosion: x2
-*choose n summons/corpses to detonate doing maximum hp as damage to enemies up to 2 adjacent squares from the summon/corpse*
+Corpse explosion: x2, Speed 8
+*choose n summons/corpses to detonate doing  1/2 maximum hp as damage (round up) to enemies up to 1 adjacent squares from the summon/corpse*
 *you may choose to use corpse explosion after summon is destroyed if so draw a card*
 *if a necropolis is in play +1 action*  
 
 
-Blood Ritual: x2 
-*choose any summon to sacrifice 3 hp. If the summon survives choose up to 4 other summons to sacrifice to create a Abomination at that location.* 
-    Abomination -
-          The abomination has a combined hp of all summons max hp -4 and a combined attack of all summons + 2 *
+Blood Ritual: x2, Speed 4
+*choose two summons to sacrifice to create an Abomination up to 2 spaces from the necro mancer
+    Abomination (Abominations can't be sacrificed)-
+          Base stats 11 Hp and 6 Attk 1 range 1 movment.
+	  Golem: +1 hp
+	  Warrior: +1 Attck
+	  Archer: -1 hp -1 Attack + 1 Range
 
 *if a Hades favor is in play get + 1 Action* 
 
@@ -33,22 +35,27 @@ Blood Ritual: x2
 
 Ongoing:
 
-Haunting spirit: x1
-*Drain 3 health from affected target. target suffer -3 speed, -3 hp  and summoner gains up to 3hp*
-*choose a target to haunt. if the target dies the spirit will haunt the closest enemy. If equidistant then the summoner may choose the target.*
+Haunting spirit: x1, Speed 10
+*Haunt a target within 3 squares of the necromancer (only one target can be haunted at any given time)*
+*Deals 1 damage to target(summons and allies included) and heal the necromancer for 3x the dmg*
+*At the start of the turn Haunt must jump to a new target with in 2 squares of the current target. If targets are equidistant Necro may chose target.*
+*If no target with in range of the current haunt target the haunt returns to the spirit realm and necro must wait till next turn to use Haunt*
 
-Corpse Shield: x1
-*You may choose 4 summons to sacrifice to create a corpse shield for the summoner equal to the sacrificed summons max hp*
-*Summoner also gains attack equal to the sacrifice summons total attack*
-*shield only last 4 turns*
+Bone Shield: x1, Speed 3
+*You may choose 1 summons to sacrifice to create a Bone shield for the summoner*
+*Summoner gains 3 charges of dmg reduction. Each charge is equal 3 dmg reduction 1 dmg reflection*
+*Charges only last 3 turns*  
+*Charges won't be lost upon losing Bone Shield on going. 
+      Golem Sacrafice give +1 dmg Reduction
+      Warrior Sacrafice Gives +1 dmg Reflection to attacker
+       Archer Sacrafice gives +2 dmg Reflection -1dmg Reduction
 
-Hades Favor: x1
-*necromancer gains +2 movement and summons gain +1 movement* 
+Hades Favor: x1, Speed 10
+*necromancer and summons gains +1 movement * 
 *Summoner moves through the underworld granting immunity to roots when using movement cards*
 
-Necropolis: x2
-(Speed+1 for all cards ,heal +1 every turn for summons and summoner) effect stacks
-*You may chose to sacrifice 3hp or 4hp from a summon or summoner* 
-*sacrificing 4hp you may destroy any ongoing effect*
-*sacrificing 3hp allows for +1 action*
+Necropolis: x2, Speed 5
+at the start turn choose one of the following ( played at the speed of the card).
+heal +1 every summon, heal +2 summoner, sacrifice 4 hp to draw 2 cards,
+or you may sacrifice 4 hp to destroy any ongoing effect with in 1 square of summoner or summons
 
