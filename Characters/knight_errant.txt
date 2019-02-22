@@ -1,7 +1,7 @@
 Health = 29
 
-1) Hop (8): Speed 4. Move 2 spaces vertically and one horizontally, or move 2 spaces horizontally and one vertically.  Move will make an 'L' shape.  May leap over other pieces. Enemies adjacent to your landing space take 4 damage.
-2) Lance (10): Speed 7. Attack a square 2 spaces vertically and one horizontally, or attack 2 spaces horizontally and one vertically from your position.  Attack path forms an 'L' shape.  May attack over other pieces.  7 damage. After attacking, move to an adjacent tile.
+1) Hop (8): Speed 4. Move 2 spaces in one direction, and then 1 space in a different direction that is not directly backwards.  Move will make an 'L' shape.  May leap over other pieces. Enemies adjacent to your landing space take 4 damage.
+2) Lance (10): Speed 7. Attack a square that is 2 spaces in one direction and then 1 space in a different direction that is not directly backwards from your current tile.  Attack path forms an 'L' shape.  Attack may reach over other pieces.  7 damage. After attacking, move to an adjacent tile.
 3) Chivalry (2): Speed 9. Select X number of your own Ongoing cards to discard.  You may then discard up to 2*X enemy Ongoing cards across multiple enemies.
 4) Godspeed (2): Speed 10. You may play up to 3 cards on your next turn.
 
