@@ -1,4 +1,4 @@
-Health = 37
+Health = 33
 
 1) Dig (6): Speed 8. Create a hole in the ground at your current tile. You may move to an adjacent space and play another card. 
 2) Burrow (4): Speed 4. If you are currently standing on a hole tile, you may burrow into the hole and surface at any hole tile.  The hole you surface at is destroyed. Heal 3 health. Play another card.
