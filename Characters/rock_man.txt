@@ -2,9 +2,9 @@ Health = 10
 
 Trait: If Rock Man dies and he still has allies that are alive, he loses the next 2 turns, loses all his rocks and rock powers, and reassembles at full health at the nearest tile to where he died.  If Rock Man dies and his allies are dead, he stays dead.
 
-1) Igneous (3): Speed 8. Spawn an Igneous rock at least 2 tiles away.  If Rock Man ends the turn on that tile he eats the rock and gains its power: do 2 damage to adjacent enemies at Speed 10 each turn. This card stacks and stays in play until Rock Man's death.
-2) Sedimentary (3): Speed 8. Spawn a Sedimentary rock at least 2 tiles away.  If Rock Man ends the turn on that tile he eats the rock and gains its power: gain 4 current and max health. This card stacks and stays in play until Rock Man's death.
-3) Metamorphic (3): Speed 8. Spawn a Metamorphic rock at least 2 tiles away.  If Rock Man ends the turn on that tile he eats the rock and gains its power: draw an extra card after each turn. This card stacks and stays in play until Rock Man's death.
+1) Igneous (3): Speed 8. Spawn an Igneous rock at least 2 tiles away.  If Rock Man ends a turn on that tile he eats the rock and gains its power: do 2 damage to adjacent enemies at Speed 10 each turn. This card stacks and stays in play until Rock Man's death.
+2) Sedimentary (3): Speed 8. Spawn a Sedimentary rock at least 2 tiles away.  If Rock Man ends a turn on that tile he eats the rock and gains its power: gain 4 current and max health. This card stacks and stays in play until Rock Man's death.
+3) Metamorphic (3): Speed 8. Spawn a Metamorphic rock at least 2 tiles away.  If Rock Man ends a turn on that tile he eats the rock and gains its power: draw an extra card after each turn. This card stacks and stays in play until Rock Man's death.
 
 4) Rock Slide (6): Speed 6. Slide up to 2 tiles in a straight line. Enemies adjacent to your landing tile you touched take 4 damage and lose an Ongoing of your choice.
 5) Between a Rock and a Hard Place (3): Speed 4.  Push yourself and an adjacent enemy in a straight line until contacting either a border or occupied tile.  Enemy discards 2 cards. Deal 3 damage.
