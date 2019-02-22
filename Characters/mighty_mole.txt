@@ -2,7 +2,7 @@ Health = 33
 
 1) Dig (6): Speed 8. Create a hole in the ground at your current tile. You may move to an adjacent space and play another card. 
 2) Burrow (4): Speed 4. If you are currently standing on a hole tile, you may burrow into the hole and surface at any hole tile.  The hole you surface at is destroyed. Heal 3 health. Play another card.
-3) Collapsing Pit (2): Speed 4. You may select an existing hole and collapse it.  If you do so all enemies on or adjacent to that tile cannot move this turn and take 3 damage. The hole is now destroyed.
+3) Cave-In (2): Speed 4. You may select an existing hole and collapse it.  If you do so all enemies on or adjacent to that tile cannot move this turn and take 3 damage. The hole is now destroyed.
 4) Forepaw Clap (5): Speed 6. You clap your forepaws together, striking a span of 3 adjacent tiles. Enemies hit take 5 damage and are pushed one tile away. Discard an Ongoing of your choice from each enemy hit this way.
 5) Moleskin (2): Speed 1. You take no damage this turn or next.
 6) Insectivore (4): Speed 5. You take a bite out of an adjacent enemy for 7 damage. Your paralysis toxins prevent the enemy from moving this turn.  Enemy discards 2 cards.
