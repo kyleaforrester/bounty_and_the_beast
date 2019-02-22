@@ -5,7 +5,7 @@ Health = 32
 3) Crawl (6): Speed 8. Move to an adjacent square. Play another card.
 4) Curl (5): Speed 2. Curl into a ball, and select a straight line direction.  Roll in that direction until contacting another player or the edge of the board.  If you contact an enemy, you cast 'Secrete'.
 5) Smothered and Covered (2): Speed 5. You may smother an adjacent square.  You and all enemies on that square lose the rest of this turn, and the next turn.
-6) Dessication (2): Speed 6. Remove 2 random Ongoing abilities from each enemy hero within 2 squares range.
+6) Dessication (2): Speed 6. Remove 2 Ongoing abilities of your choice from each enemy hero within 2 squares range.
 
 Ongoing:
 7) Snail (2): Speed 2. Ongoing. You turn into a snail and have an external shell. Reduce each incoming attack by 2 damage.  This card stacks. Minimum 1 damage taken per damage instance.
